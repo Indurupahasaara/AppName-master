@@ -12,4 +12,8 @@ export class AuthBaseComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  init():void{
+    
+  }
+
 }
